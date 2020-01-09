@@ -1,0 +1,124 @@
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+ 
+
+input,
+label {
+    margin: .30rem 10;
+}
+.preference {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: .5rem;
+}
+
+ 
+
+.output {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+ 
+
+#exciting {
+    background: linear-gradient(to bottom, #ffe8d4, #f69d3c);
+    border: 1px solid #696969;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 20px orange;
+}
+
+ 
+
+#exciting:before {
+    content: "ℹ️";
+    margin-right: 5px;
+}
+
+ 
+
+div{
+border-radius: 30px;
+}
+
+ 
+
+ 
+
+ 
+
+form.form-example {
+    display: table;
+}
+
+ 
+
+div.form-example {
+    display: table-row;
+}
+
+ 
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+ 
+
+label {
+    padding-right: 10px;
+}
+
+ 
+
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+ 
+
+input,
+label {
+    margin: .4rem 0;
+}
+label,
+footer {
+    font-family: sans-serif;
+}
+
+ 
+
+label {
+    font-size: 1rem;
+    padding-right: 10px;
+}
+
+ 
+
+select {
+    font-size: .9rem;
+    padding: 2px 5px;
+}
+
+ 
+
+footer {
+    font-size: .8rem;
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+}
+
+ 
+
+.output {
+    background: center/cover no-repeat url('/media/examples/hamster.jpg');
+    position: relative;
+}
+ 
